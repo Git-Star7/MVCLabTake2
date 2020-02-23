@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "MileageResult";
+}
+
+@model Tripometer
+
+@{ double range = Model.MPG * Model.Gallons;}
+
+@{ double rangeleft = range - Model.Trip;}
+
+<h2>Range til empty: @rangeleft</h2>
+
+<h2>Range: @range</h2>
+
+@if (range < Model.Trip)
+{
+    <h2 style="color: red;">You need more gas</h2>
+}
+else
+{
+    <h2 style="color: green;">You have enough gas</h2>
+}
