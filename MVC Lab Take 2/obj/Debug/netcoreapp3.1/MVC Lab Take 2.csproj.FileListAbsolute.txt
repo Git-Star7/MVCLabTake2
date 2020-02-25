@@ -108,3 +108,6 @@ C:\Users\Michael\source\repos\Grand Circus\Week 5\5 Friday\MVC Lab Take 2\MVC La
 C:\Users\Michael\source\repos\Grand Circus\Week 5\5 Friday\MVC Lab Take 2\MVC Lab Take 2\obj\Debug\netcoreapp3.1\MVC Lab Take 2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Michael\source\repos\Grand Circus\Week 5\5 Friday\MVC Lab Take 2\MVC Lab Take 2\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageForm.cshtml.g.cs
 C:\Users\Michael\source\repos\Grand Circus\Week 5\5 Friday\MVC Lab Take 2\MVC Lab Take 2\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageResult.cshtml.g.cs
+C:\Users\Michael\source\repos\Grand Circus\Week 5\5 Friday\MVC Lab Take 2\MVC Lab Take 2\obj\Debug\netcoreapp3.1\Razor\Views\Maths\AddNumbers.cshtml.g.cs
+C:\Users\Michael\source\repos\Grand Circus\Week 5\5 Friday\MVC Lab Take 2\MVC Lab Take 2\obj\Debug\netcoreapp3.1\Razor\Views\Maths\Results.cshtml.g.cs
+C:\Users\Michael\source\repos\Grand Circus\Week 5\5 Friday\MVC Lab Take 2\MVC Lab Take 2\obj\Debug\netcoreapp3.1\Razor\Views\Maths\DivideNumbers.cshtml.g.cs
